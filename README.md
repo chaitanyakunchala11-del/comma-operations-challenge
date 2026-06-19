@@ -92,7 +92,74 @@ A hybrid manufacturing model is recommended.
 This approach minimizes risk while allowing comma.ai to build manufacturing capability.
 
 ---
+## Financial Analysis
 
+### Assumptions
+
+- 43 harness connector types
+- Top 10 connector types represent approximately 70% of total sales volume
+- Estimated annual production volume: 50,000 units
+- Current outsourced cost: $18 per harness
+- Estimated internal manufacturing cost: $12 per harness
+
+### Cost Comparison
+
+| Metric | Outsourced | In-House |
+|----------|----------:|----------:|
+| Cost Per Harness | $18 | $12 |
+| Annual Volume | 50,000 | 50,000 |
+| Annual Cost | $900,000 | $600,000 |
+
+### Estimated Annual Savings
+
+Annual Savings:
+
+$900,000 - $600,000 = $300,000
+
+### Break-Even Analysis
+
+Estimated Equipment Investment:
+
+$50,000
+
+Estimated Annual Savings:
+
+$300,000
+
+Estimated Break-Even Period:
+
+Approximately 2–3 months
+## Implementation Timeline
+
+### Phase 1 (0–3 Months)
+
+- Purchase equipment
+- Develop work instructions
+- Train staff
+- Produce pilot batches
+
+### Phase 2 (3–6 Months)
+
+- Begin production of top-selling harnesses
+- Monitor quality metrics
+- Track production costs
+
+### Phase 3 (6–12 Months)
+
+- Expand manufacturing capability
+- Evaluate additional connector types
+- Optimize inventory levels
+
+### Phase 4 (12+ Months)
+
+- Full review of outsourcing strategy
+- Determine long-term manufacturing roadmap
 ## Conclusion
 
-Bringing harness connector manufacturing in-house appears feasible and offers strategic benefits in supply chain control, quality assurance, and product development speed. Due to connector variety and inventory complexity, a phased implementation is recommended rather than an immediate full transition.
+Based on estimated production volumes, labor requirements, and equipment costs, bringing high-volume harness connector manufacturing in-house appears financially attractive.
+
+A phased implementation focused on the highest-volume connector families could potentially generate annual savings while improving supply-chain resilience, quality control, and product development speed.
+
+Low-volume connector families should continue to be outsourced until demand justifies internal production.
+
+This hybrid approach minimizes risk while providing a clear path toward increased manufacturing capability within the comma factory.
